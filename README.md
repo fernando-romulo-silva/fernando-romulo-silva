@@ -27,7 +27,7 @@
 <p align='center'>
   💻 My workspace<br/><br/>
   <img src="https://img.shields.io/badge/linux-%230078D6.svg?&style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/amd%20ryzen 9 3900x-%230071C5.svg?&style=for-the-badge&logo=amd&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amd-ryzen%203900x-red?&style=for-the-badge&logo=amd&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-64GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/randeon%201650-%2376B900.svg?&style=for-the-badge&logo=amd&logoColor=white" />
 </p>
