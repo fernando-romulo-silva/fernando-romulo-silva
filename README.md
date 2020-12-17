@@ -35,7 +35,7 @@
 
 <p align='center'>
   💻 My workspace<br/><br/>
-  <img src="https://img.shields.io/badge/linux-black?&style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/ubuntu-red?&style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/ryzen-%203900x-red?&style=for-the-badge&logo=amd&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-64GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Randeon-%20RX550-red?&style=for-the-badge&logo=amd&logoColor=white" />
