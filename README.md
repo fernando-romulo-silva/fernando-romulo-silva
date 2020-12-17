@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/linux-black?&style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Amd-ryzen%203900x-red?&style=for-the-badge&logo=amd&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-64GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/randeon%201650-%2376B900.svg?&style=for-the-badge&logo=amd&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amd-Randeon%20RX550-red?&style=for-the-badge&logo=amd&logoColor=white" />
 </p>
 
 <p align='center'>
