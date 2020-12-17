@@ -20,9 +20,13 @@
   <a href="https://twitter.com/intent/follow?screen_name=nandao_romulo">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <a href="https://www.facebook.com/fernando.romulodasilva">
-    <img src=" https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />        
+  <a href="https://stackoverflow.com/users/9867064/fernando">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />        
   </a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/fernando.romulodasilva">
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
 </p>
 
 <p align='center'>
