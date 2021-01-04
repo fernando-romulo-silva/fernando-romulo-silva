@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A Java developer from Osasco SP, Brazil.
+  A developer from Osasco SP, Brazil.
 </p>
 
 <p align='center'>
