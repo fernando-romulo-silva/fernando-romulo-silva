@@ -11,6 +11,9 @@
   <a href="https://www.linkedin.com/in/fernando-romulo-da-silva-253678136/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
+  <a href="http://www.cambly.com/en/certificate/verify/7331dc16">
+    <img src="https://img.shields.io/badge/cambly-%230077B5.svg?&style=for-the-badge&logo=cambly&logoColor=white" />
+  </a>&nbsp;&nbsp;   
   <a href="https://www.instagram.com/fernandoromuloda">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
@@ -26,7 +29,6 @@
   <a href="https://www.facebook.com/fernando.romulodasilva">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  
 </p>
 
 <p align='center'>
