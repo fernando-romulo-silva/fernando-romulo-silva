@@ -36,6 +36,13 @@
 </p>
 
 <p align='center'>
+   :dizzy: My Portfolio<br/><br/>
+    <a href="https://github.com/fernando-romulo-silva/image-converter-service">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fernando-romulo-silva&repo=image-converter-service&theme=dark" />
+    </a>   
+</p>  
+
+<p align='center'>
   💻 My workspace<br/><br/>
   <img src="https://img.shields.io/badge/ubuntu-%2020.04-red?&style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/ryzen-%203900x-red?&style=for-the-badge&logo=amd&logoColor=white" />
