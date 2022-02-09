@@ -36,11 +36,11 @@
 </p>
 
 <p align='center'>
-   :dizzy: My Portfolio<br/><br/>
-    <a href="https://github.com/fernando-romulo-silva/image-converter-service">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fernando-romulo-silva&repo=image-converter-service&theme=dark" />
-    </a>   
-</p>  
+    :dizzy: My Portfolio<br/>
+    <a href="https://github.com/fernando-romulo-silva/image-converter-service">API Spring Boot</a>
+  <br/>
+  <br/>
+</p>
 
 <p align='center'>
   💻 My workspace<br/><br/>
@@ -54,13 +54,9 @@
   Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
 </p>
 
-<!-- <details align='center'>
-  <summary>:zap: My workspace specs</summary>
-</details>-->
-
 <p align='center'>
   📫 How to reach me: <a href='mailto:fernando.romulo.silva@gmail.com'>fernando.romulo.silva@gmail.com</a>
 </p>
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/alexandresanlim/alexandresanlim"></a> hipsters and nerds come here o/
+  <a href="#"><img src="https://badges.pufler.dev/visits/fernando-romulo-silva/fernando-romulo-silva"></a> hipsters and nerds come here o/
 </p>
