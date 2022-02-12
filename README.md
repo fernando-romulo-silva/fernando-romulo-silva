@@ -36,18 +36,6 @@
 </p>
 
 <p align='center'>
-  :dizzy: My Portfolio<br/>
-  <a href="https://github.com/fernando-romulo-silva/image-converter-service">
-    API restful: Java 17, Maven, Spring frameworks (security, data, OpenAPI), Docker, Kubernetes, SQL
-  </a><br/> 
-  <a href="https://github.com/fernando-romulo-silva/useful-linux-scripts">
-    Linux and applications commands: Linux, Docker, K8s, bash and others
-  </a><br/><br/>
-</p>
-<br/>
-<br/>
-<br/>
-<p align='center'>
   💻 My workspace<br/><br/>
   <img src="https://img.shields.io/badge/ubuntu-%2020.04-red?&style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/ryzen-%203900x-red?&style=for-the-badge&logo=amd&logoColor=white" />
@@ -62,6 +50,17 @@
 <p align='center'>
   📫 How to reach me: <a href='mailto:fernando.romulo.silva@gmail.com'>fernando.romulo.silva@gmail.com</a>
 </p>
+
 <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/fernando-romulo-silva/fernando-romulo-silva"></a> hipsters and nerds come here o/
+</p>
+
+<p align='center'>
+  :dizzy: My Portfolio<br/>
+  <a href="https://github.com/fernando-romulo-silva/image-converter-service">
+    API restful: Java 17, Maven, Spring frameworks (security, data, OpenAPI), Docker, Kubernetes, SQL
+  </a><br/> 
+  <a href="https://github.com/fernando-romulo-silva/useful-linux-scripts">
+    Linux and applications commands: Linux, Docker, K8s, bash and others
+  </a><br/><br/>
 </p>
