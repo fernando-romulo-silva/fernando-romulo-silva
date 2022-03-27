@@ -1,7 +1,7 @@
 <map version="1.1.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1613391807685" ID="ID_825044846" MODIFIED="1613999629591" TEXT="Career">
-<node CREATED="1613391824138" FOLDED="true" ID="ID_1228580164" MODIFIED="1647975863007" POSITION="right" TEXT="Technologies">
+<node CREATED="1613391824138" FOLDED="true" ID="ID_1228580164" MODIFIED="1648383858579" POSITION="right" TEXT="Technologies">
 <node COLOR="#000000" CREATED="1557004526000" FOLDED="true" ID="Freemind_Link_1261839109" MODIFIED="1626347464507" TEXT="Environment Scripts">
 <font NAME="Dialog" SIZE="12"/>
 <node COLOR="#000000" CREATED="1557004526000" ID="Freemind_Link_1261839113" MODIFIED="1611488903181" TEXT="Batch DOS">
@@ -17,7 +17,7 @@
 <icon BUILTIN="button_ok"/>
 </node>
 </node>
-<node COLOR="#000000" CREATED="1555763079000" FOLDED="true" ID="Freemind_Link_1254926662" MODIFIED="1642942074485" TEXT="Web">
+<node COLOR="#000000" CREATED="1555763079000" FOLDED="true" ID="Freemind_Link_1254926662" MODIFIED="1648383856300" TEXT="Web">
 <font NAME="Dialog" SIZE="12"/>
 <node COLOR="#000000" CREATED="1555762736000" FOLDED="true" ID="Freemind_Link_1254924686" MODIFIED="1626347468252" TEXT="HTML">
 <font NAME="Dialog" SIZE="12"/>
@@ -82,15 +82,15 @@
 <node CREATED="1624535653956" ID="ID_323245153" MODIFIED="1624535658021" TEXT="GraphQl"/>
 </node>
 </node>
-<node CREATED="1611744919791" FOLDED="true" ID="ID_1790363601" MODIFIED="1637963206729" TEXT="Messaging">
-<node CREATED="1614331423997" FOLDED="true" ID="ID_1662262399" MODIFIED="1636285861709" TEXT="Message Brokers">
+<node CREATED="1611744919791" FOLDED="true" ID="ID_1790363601" MODIFIED="1648383852228" TEXT="Messaging">
+<node CREATED="1614331423997" FOLDED="true" ID="ID_1662262399" MODIFIED="1648383850974" TEXT="Message Brokers">
 <node CREATED="1614332376762" ID="ID_458046399" MODIFIED="1614332398453" TEXT="ActiveMQ Artemis"/>
 <node CREATED="1614332412735" ID="ID_768829554" MODIFIED="1614332414759" TEXT="HornetQ"/>
 <node CREATED="1613488259685" ID="ID_1438470173" MODIFIED="1613488264758" TEXT="ZeroMQ"/>
 <node CREATED="1611745035460" ID="ID_1036318451" MODIFIED="1611745037072" TEXT="RabbitMQ"/>
 <node CREATED="1611745080134" ID="ID_1934834335" MODIFIED="1611745082038" TEXT="Apache Camel"/>
 </node>
-<node CREATED="1614707437050" FOLDED="true" ID="ID_808848603" MODIFIED="1624535498423" TEXT="Message Channels">
+<node CREATED="1614707437050" FOLDED="true" ID="ID_808848603" MODIFIED="1648383840702" TEXT="Message Channels">
 <node CREATED="1613393186934" ID="ID_1016102151" MODIFIED="1613393192105" TEXT="kafka"/>
 </node>
 </node>
@@ -554,7 +554,7 @@
 </node>
 </node>
 </node>
-<node BACKGROUND_COLOR="#ffe9a6" COLOR="#000000" CREATED="1555714466000" FOLDED="true" ID="Freemind_Link_1254774588" MODIFIED="1647975866442" POSITION="right" TEXT="Certifications">
+<node BACKGROUND_COLOR="#ffe9a6" COLOR="#000000" CREATED="1555714466000" FOLDED="true" ID="Freemind_Link_1254774588" MODIFIED="1648383831225" POSITION="right" TEXT="Certifications">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -749,13 +749,24 @@
 </html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
-<node CREATED="1613393656824" ID="ID_1955021993" MODIFIED="1648054290427" POSITION="right" TEXT="Software Engineering">
-<node CREATED="1613397626540" FOLDED="true" ID="ID_1135521625" MODIFIED="1637963297705" TEXT="Processes">
+<node CREATED="1613393656824" FOLDED="true" ID="ID_1955021993" MODIFIED="1648383782162" POSITION="right" TEXT="Software Engineering">
+<node CREATED="1647357062079" FOLDED="true" ID="ID_1907517734" MODIFIED="1647975809697" TEXT="Product">
+<node CREATED="1647357067690" ID="ID_832350108" MODIFIED="1647357216028" TEXT="Lean Inception"/>
+<node CREATED="1647357219853" ID="ID_351700557" MODIFIED="1647357228281" TEXT="What is it?"/>
+<node CREATED="1647357247649" ID="ID_784356789" MODIFIED="1647357250076" TEXT="Target"/>
+<node CREATED="1647357266445" ID="ID_1133642310" MODIFIED="1647357271208" TEXT="What it do?"/>
+<node CREATED="1647357273479" ID="ID_331982280" MODIFIED="1647357327825" TEXT="What are the advantages?"/>
+<node CREATED="1647357377032" ID="ID_1574719347" MODIFIED="1647357409101" TEXT="What problem are it solving?"/>
+<node COLOR="#000000" CREATED="1557080869000" ID="Freemind_Link_1262177590" MODIFIED="1610741654337" TEXT="MVP">
+<font NAME="Dialog" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1613397626540" FOLDED="true" ID="ID_1135521625" MODIFIED="1648383721326" TEXT="Processes">
 <node CREATED="1613400699860" ID="ID_967280655" MODIFIED="1613400701986" TEXT="XP"/>
 <node CREATED="1613393661413" ID="ID_1682958485" MODIFIED="1613393665748" TEXT="Scrum"/>
 <node CREATED="1613393713143" ID="ID_1241066288" MODIFIED="1613393714559" TEXT="kanban"/>
 </node>
-<node COLOR="#000000" CREATED="1557479539000" FOLDED="true" ID="Freemind_Link_1264943485" MODIFIED="1637963299444" TEXT="Requirements Analysis">
+<node COLOR="#000000" CREATED="1557479539000" FOLDED="true" ID="Freemind_Link_1264943485" MODIFIED="1648383723338" TEXT="Requirements Analysis">
 <font NAME="Dialog" SIZE="12"/>
 <node COLOR="#000000" CREATED="1557479545000" FOLDED="true" ID="Freemind_Link_1264943676" MODIFIED="1636285549081" TEXT="Scope">
 <font NAME="Dialog" SIZE="12"/>
@@ -800,13 +811,13 @@
 </node>
 </node>
 </node>
-<node CREATED="1611583477718" FOLDED="true" ID="ID_890639827" MODIFIED="1637963300856" TEXT="Project Management">
+<node CREATED="1611583477718" FOLDED="true" ID="ID_890639827" MODIFIED="1648383725889" TEXT="Project Management">
 <node CREATED="1611583492830" ID="ID_1860079331" MODIFIED="1611583495142" TEXT="Trello"/>
 <node CREATED="1611583625336" ID="ID_419371781" MODIFIED="1611583634256" TEXT="Microsoft TFS"/>
 <node CREATED="1613397650836" ID="ID_1916292912" MODIFIED="1613397654228" TEXT="Redmine"/>
 </node>
 <node CREATED="1636210478265" ID="ID_1010902580" MODIFIED="1636210482077" TEXT="Modeling"/>
-<node COLOR="#000000" CREATED="1555764234000" FOLDED="true" ID="Freemind_Link_1254932156" MODIFIED="1647975818931" TEXT="UML">
+<node COLOR="#000000" CREATED="1555764234000" FOLDED="true" ID="Freemind_Link_1254932156" MODIFIED="1648383731198" TEXT="UML">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -839,39 +850,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#000000" CREATED="1557078894000" ID="Freemind_Link_1262166099" MODIFIED="1648054292604" TEXT="SOLID">
-<font NAME="Dialog" SIZE="12"/>
-<node COLOR="#000000" CREATED="1557078619000" ID="Freemind_Link_1262164640" MODIFIED="1648054305486" TEXT="Single Responsibility Principle">
-<font NAME="Dialog" SIZE="12"/>
-<node CREATED="1646739473983" ID="ID_1456947055" MODIFIED="1646761086280" TEXT="Classes, software components and microservices that have only one responsibility"/>
-<node CREATED="1646739507234" ID="ID_682988242" MODIFIED="1646739510000" TEXT="Should encapsulate that part"/>
-<node CREATED="1646760969469" ID="ID_1664704722" MODIFIED="1646760971893" TEXT="A class should have one, and only one, reason to change"/>
-</node>
-<node COLOR="#000000" CREATED="1557078944000" FOLDED="true" ID="Freemind_Link_1262166346" MODIFIED="1648054326567" TEXT="Open-close Principle">
-<font NAME="Dialog" SIZE="12"/>
-<node CREATED="1646739566047" ID="ID_1105856501" MODIFIED="1646739570210" TEXT="Software entities (classes, modules, functions, etc.) should be open for extension, but closed for modification"/>
-<node CREATED="1646739752520" ID="ID_24672801" MODIFIED="1646739755083" TEXT="Generalizations"/>
-</node>
-<node COLOR="#000000" CREATED="1557078764000" FOLDED="true" ID="Freemind_Link_1262165437" MODIFIED="1648054331219" TEXT="Liskov Substitution Principle">
-<font NAME="Dialog" SIZE="12"/>
-<node CREATED="1646739799103" ID="ID_186641769" MODIFIED="1646739800572" TEXT="It is based on the concept of &quot;substitutability&quot;"/>
-<node CREATED="1646739825237" ID="ID_1314146186" MODIFIED="1646739829637" TEXT="An object (such as a class) and a sub-object (such as a class that extends the first class) must be interchangeable without breaking the program"/>
-</node>
-<node COLOR="#000000" CREATED="1557078962000" FOLDED="true" ID="Freemind_Link_1262166498" MODIFIED="1647960050670" TEXT="Interface segregation principle">
-<font NAME="Dialog" SIZE="12"/>
-<node CREATED="1646739923133" ID="ID_99043663" MODIFIED="1646739926639" TEXT="No code should be forced to depend on methods it does not use"/>
-<node CREATED="1646739954916" ID="ID_1283949598" MODIFIED="1646739959521" TEXT="Splits interfaces that are very large into smaller"/>
-<node CREATED="1646739998682" ID="ID_724787715" MODIFIED="1646740003232" TEXT="Intended to keep a system decoupled and thus easier to refactor, change, and redeploy"/>
-</node>
-<node COLOR="#000000" CREATED="1557078733000" FOLDED="true" ID="Freemind_Link_1262165295" MODIFIED="1647960051714" TEXT="Dependency Injection or Inversion principle">
-<font NAME="Dialog" SIZE="12"/>
-<node CREATED="1646740054727" ID="ID_858097730" MODIFIED="1646740058021" TEXT="Methodology for loosely coupling software modules"/>
-<node CREATED="1646740114869" ID="ID_1916322628" MODIFIED="1646740116909" TEXT="High-level modules should not import anything from low-level modules. Both should depend on abstractions (e.g., interfaces)."/>
-<node CREATED="1646740128835" ID="ID_433374644" MODIFIED="1646740156619" TEXT="Abstractions should not depend on details. "/>
-<node CREATED="1646740159507" ID="ID_1089013831" MODIFIED="1646740160207" TEXT="Details (concrete implementations) should depend on abstractions."/>
-</node>
-</node>
-<node COLOR="#000000" CREATED="1555764686000" ID="Freemind_Link_1254933877" MODIFIED="1647945550912" TEXT="Domain-driven design">
+<node COLOR="#000000" CREATED="1555764686000" FOLDED="true" ID="Freemind_Link_1254933877" MODIFIED="1648383779894" TEXT="Domain-driven design">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -941,7 +920,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#000000" CREATED="1557479508000" ID="Freemind_Link_1264943304" MODIFIED="1648054169376" POSITION="right" TEXT="Programming">
+<node COLOR="#000000" CREATED="1557479508000" FOLDED="true" ID="Freemind_Link_1264943304" MODIFIED="1648383763358" POSITION="right" TEXT="Programming">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -984,7 +963,7 @@
 <node CREATED="1646763146733" ID="ID_628429568" MODIFIED="1646763149363" TEXT="Statements that change a program&apos;s state"/>
 <node CREATED="1646763195397" ID="ID_1686636428" MODIFIED="1646763197343" TEXT="Describing how a program operates."/>
 </node>
-<node COLOR="#000000" CREATED="1557079050000" ID="Freemind_Link_1262167137" MODIFIED="1648054176682" TEXT="OOP">
+<node COLOR="#000000" CREATED="1557079050000" FOLDED="true" ID="Freemind_Link_1262167137" MODIFIED="1648383681954" TEXT="OOP">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -994,7 +973,7 @@
   </body>
 </html></richcontent>
 <font NAME="Dialog" SIZE="12"/>
-<node CREATED="1630327668299" ID="ID_1430267267" MODIFIED="1630327714821" TEXT="OOP Principles">
+<node CREATED="1630327668299" FOLDED="true" ID="ID_1430267267" MODIFIED="1648383680223" TEXT="OOP Principles">
 <node CREATED="1647955022094" FOLDED="true" ID="ID_871623701" MODIFIED="1648054205514" TEXT="Encapsulation">
 <node CREATED="1647955256757" ID="ID_113273157" MODIFIED="1647955262546" TEXT="Protective barrier around the information contained within a class from the rest of the code"/>
 </node>
@@ -1009,7 +988,7 @@
 <node CREATED="1647955610364" ID="ID_456381270" MODIFIED="1647955619147" TEXT="The variation of behaviors based on type is assigned to the type for which this variation happens"/>
 </node>
 </node>
-<node CREATED="1647955184002" ID="ID_262932507" MODIFIED="1647955190846" TEXT="OPP Structures">
+<node CREATED="1647955184002" FOLDED="true" ID="ID_262932507" MODIFIED="1648383681015" TEXT="OPP Structures">
 <node CREATED="1647955208723" FOLDED="true" ID="ID_10194062" MODIFIED="1647960092597" TEXT="Interfaces">
 <node CREATED="1647956278878" ID="ID_1593419518" MODIFIED="1647956281057" TEXT="Interface is a contract you should comply to"/>
 </node>
@@ -1091,6 +1070,38 @@
 </node>
 <node COLOR="#000000" CREATED="1559145072000" ID="Freemind_Link_1275076532" MODIFIED="1610741654353" TEXT="Reactive">
 <font NAME="Dialog" SIZE="12"/>
+</node>
+<node COLOR="#000000" CREATED="1557078894000" FOLDED="true" ID="Freemind_Link_1262166099" MODIFIED="1648383672939" TEXT="SOLID">
+<font NAME="Dialog" SIZE="12"/>
+<node COLOR="#000000" CREATED="1557078619000" FOLDED="true" ID="Freemind_Link_1262164640" MODIFIED="1648383671777" TEXT="Single Responsibility Principle">
+<font NAME="Dialog" SIZE="12"/>
+<node CREATED="1646739473983" ID="ID_1456947055" MODIFIED="1646761086280" TEXT="Classes, software components and microservices that have only one responsibility"/>
+<node CREATED="1646739507234" ID="ID_682988242" MODIFIED="1646739510000" TEXT="Should encapsulate that part"/>
+<node CREATED="1646760969469" ID="ID_1664704722" MODIFIED="1646760971893" TEXT="A class should have one, and only one, reason to change"/>
+</node>
+<node COLOR="#000000" CREATED="1557078944000" FOLDED="true" ID="Freemind_Link_1262166346" MODIFIED="1648054326567" TEXT="Open-close Principle">
+<font NAME="Dialog" SIZE="12"/>
+<node CREATED="1646739566047" ID="ID_1105856501" MODIFIED="1646739570210" TEXT="Software entities (classes, modules, functions, etc.) should be open for extension, but closed for modification"/>
+<node CREATED="1646739752520" ID="ID_24672801" MODIFIED="1646739755083" TEXT="Generalizations"/>
+</node>
+<node COLOR="#000000" CREATED="1557078764000" FOLDED="true" ID="Freemind_Link_1262165437" MODIFIED="1648054331219" TEXT="Liskov Substitution Principle">
+<font NAME="Dialog" SIZE="12"/>
+<node CREATED="1646739799103" ID="ID_186641769" MODIFIED="1646739800572" TEXT="It is based on the concept of &quot;substitutability&quot;"/>
+<node CREATED="1646739825237" ID="ID_1314146186" MODIFIED="1646739829637" TEXT="An object (such as a class) and a sub-object (such as a class that extends the first class) must be interchangeable without breaking the program"/>
+</node>
+<node COLOR="#000000" CREATED="1557078962000" FOLDED="true" ID="Freemind_Link_1262166498" MODIFIED="1647960050670" TEXT="Interface segregation principle">
+<font NAME="Dialog" SIZE="12"/>
+<node CREATED="1646739923133" ID="ID_99043663" MODIFIED="1646739926639" TEXT="No code should be forced to depend on methods it does not use"/>
+<node CREATED="1646739954916" ID="ID_1283949598" MODIFIED="1646739959521" TEXT="Splits interfaces that are very large into smaller"/>
+<node CREATED="1646739998682" ID="ID_724787715" MODIFIED="1646740003232" TEXT="Intended to keep a system decoupled and thus easier to refactor, change, and redeploy"/>
+</node>
+<node COLOR="#000000" CREATED="1557078733000" FOLDED="true" ID="Freemind_Link_1262165295" MODIFIED="1647960051714" TEXT="Dependency Injection or Inversion principle">
+<font NAME="Dialog" SIZE="12"/>
+<node CREATED="1646740054727" ID="ID_858097730" MODIFIED="1646740058021" TEXT="Methodology for loosely coupling software modules"/>
+<node CREATED="1646740114869" ID="ID_1916322628" MODIFIED="1646740116909" TEXT="High-level modules should not import anything from low-level modules. Both should depend on abstractions (e.g., interfaces)."/>
+<node CREATED="1646740128835" ID="ID_433374644" MODIFIED="1646740156619" TEXT="Abstractions should not depend on details. "/>
+<node CREATED="1646740159507" ID="ID_1089013831" MODIFIED="1646740160207" TEXT="Details (concrete implementations) should depend on abstractions."/>
+</node>
 </node>
 <node CREATED="1611582641828" FOLDED="true" ID="ID_1254374916" MODIFIED="1647956906123" TEXT="Coding 12-Factor App">
 <node CREATED="1614675961219" ID="ID_708755543" MODIFIED="1614675969641" TEXT="Codebase (github)"/>
@@ -1235,7 +1246,7 @@
 </node>
 <node CREATED="1627039721043" ID="ID_1701597268" MODIFIED="1627039731052" TEXT="Evolving Legacy Code"/>
 </node>
-<node CREATED="1613399160619" FOLDED="true" ID="ID_1284461731" MODIFIED="1647945258991" POSITION="right" TEXT="Architecture">
+<node CREATED="1613399160619" FOLDED="true" ID="ID_1284461731" MODIFIED="1648383799075" POSITION="right" TEXT="Architecture">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -1297,7 +1308,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1613397191986" FOLDED="true" ID="ID_681683230" MODIFIED="1647975879153" POSITION="right" TEXT="Personal Projects">
+<node CREATED="1613397191986" FOLDED="true" ID="ID_681683230" MODIFIED="1648383768685" POSITION="right" TEXT="Personal Projects">
 <node CREATED="1624191496719" FOLDED="true" ID="ID_1653576519" MODIFIED="1646311900422" TEXT="business">
 <node CREATED="1624192199612" ID="ID_718547201" MODIFIED="1624192258375" TEXT="personal-insurance (insurance)"/>
 <node CREATED="1624191695712" ID="ID_1993242425" MODIFIED="1624191852953" TEXT="personal-benefits (employee benfits)"/>
@@ -1377,16 +1388,5 @@
 </node>
 </node>
 <node CREATED="1642942080505" ID="ID_581044877" MODIFIED="1642942085029" POSITION="left" TEXT="Freelance"/>
-<node CREATED="1647357062079" FOLDED="true" ID="ID_1907517734" MODIFIED="1647975809697" POSITION="right" TEXT="Product">
-<node CREATED="1647357067690" ID="ID_832350108" MODIFIED="1647357216028" TEXT="Lean Inception"/>
-<node CREATED="1647357219853" ID="ID_351700557" MODIFIED="1647357228281" TEXT="What is it?"/>
-<node CREATED="1647357247649" ID="ID_784356789" MODIFIED="1647357250076" TEXT="Target"/>
-<node CREATED="1647357266445" ID="ID_1133642310" MODIFIED="1647357271208" TEXT="What it do?"/>
-<node CREATED="1647357273479" ID="ID_331982280" MODIFIED="1647357327825" TEXT="What are the advantages?"/>
-<node CREATED="1647357377032" ID="ID_1574719347" MODIFIED="1647357409101" TEXT="What problem are it solving?"/>
-<node COLOR="#000000" CREATED="1557080869000" ID="Freemind_Link_1262177590" MODIFIED="1610741654337" TEXT="MVP">
-<font NAME="Dialog" SIZE="12"/>
-</node>
-</node>
 </node>
 </map>
