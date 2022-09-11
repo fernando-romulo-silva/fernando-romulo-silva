@@ -554,7 +554,7 @@
 </node>
 </node>
 </node>
-<node BACKGROUND_COLOR="#ffe9a6" COLOR="#000000" CREATED="1555714466000" FOLDED="true" ID="Freemind_Link_1254774588" MODIFIED="1662807307779" POSITION="right" TEXT="Certifications">
+<node BACKGROUND_COLOR="#ffe9a6" COLOR="#000000" CREATED="1555714466000" FOLDED="true" ID="Freemind_Link_1254774588" MODIFIED="1662897719351" POSITION="right" TEXT="Certifications">
 <richcontent TYPE="NOTE"><html>
   <head>
     
@@ -576,17 +576,16 @@
       https://www.myexamcloud.com
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <font NAME="SansSerif" SIZE="12"/>
-<node COLOR="#000000" CREATED="1558270276000" FOLDED="true" ID="Freemind_Link_1269574977" MODIFIED="1662805918137" TEXT="LInux">
+<node COLOR="#000000" CREATED="1558270276000" FOLDED="true" ID="Freemind_Link_1269574977" MODIFIED="1662897713689" TEXT="LInux">
 <font NAME="Dialog" SIZE="12"/>
 <icon BUILTIN="penguin"/>
 <node COLOR="#000000" CREATED="1558269542000" ID="Freemind_Link_1269571094" MODIFIED="1610741654370" TEXT="Linux Essentials">
 <font NAME="Dialog" SIZE="12"/>
 </node>
 </node>
-<node COLOR="#000000" CREATED="1555762118000" FOLDED="true" ID="Freemind_Link_1254921688" MODIFIED="1662805916404" TEXT="Scrum">
+<node COLOR="#000000" CREATED="1555762118000" FOLDED="true" ID="Freemind_Link_1254921688" MODIFIED="1662897715362" TEXT="Scrum">
 <font NAME="Dialog" SIZE="12"/>
 <node COLOR="#000000" CREATED="1555762145000" ID="Freemind_Link_1254921745" MODIFIED="1610741654369" TEXT="Professional Scrum Developer">
 <font NAME="Dialog" SIZE="12"/>
@@ -595,7 +594,7 @@
 <font NAME="Dialog" SIZE="12"/>
 </node>
 </node>
-<node COLOR="#000000" CREATED="1555762957000" FOLDED="true" ID="Freemind_Link_1254925969" MODIFIED="1662805909216" TEXT="Kanban">
+<node COLOR="#000000" CREATED="1555762957000" FOLDED="true" ID="Freemind_Link_1254925969" MODIFIED="1662897716666" TEXT="Kanban">
 <font NAME="Dialog" SIZE="12"/>
 <node COLOR="#000000" CREATED="1555762962000" ID="Freemind_Link_1254925979" MODIFIED="1610741654369" TEXT="LKU I">
 <font NAME="Dialog" SIZE="12"/>
@@ -626,8 +625,7 @@
       https://cloudacademy.com
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1611488395423" FOLDED="true" ID="ID_461823292" MODIFIED="1662805890119" TEXT="Cloud Native Computing Foundation">
 <node CREATED="1611489607744" ID="ID_919087864" MODIFIED="1611489609117" TEXT="Docker Certified  Associate (DCA)"/>
 <node COLOR="#000000" CREATED="1577810851000" ID="Freemind_Link_1391804281" MODIFIED="1623872595778" TEXT="Certified Kubernetes Application Developer">
@@ -671,11 +669,11 @@
 <node CREATED="1611487480966" ID="ID_974571850" MODIFIED="1611487483274" TEXT="Pivotal Application Architect Certification"/>
 </node>
 </node>
-<node CREATED="1624395831163" FOLDED="true" ID="ID_355473350" MODIFIED="1662807302652" TEXT="JavaScript">
+<node CREATED="1624395831163" FOLDED="true" ID="ID_355473350" MODIFIED="1662897710362" TEXT="JavaScript">
 <node CREATED="1624395894171" ID="ID_146611883" MODIFIED="1624396049895" TEXT="The JavaScript Developer Certificate (W3Schools)"/>
 <node CREATED="1624396030227" ID="ID_226394621" MODIFIED="1624396042487" TEXT="jQuery Certification (W3Schools)"/>
 </node>
-<node CREATED="1624395923237" FOLDED="true" ID="ID_1373486258" MODIFIED="1662807300713" TEXT="SQL">
+<node CREATED="1624395923237" FOLDED="true" ID="ID_1373486258" MODIFIED="1662897708010" TEXT="SQL">
 <node CREATED="1624395929458" ID="ID_1291392471" MODIFIED="1624395943081" TEXT="W3 SQL Certificate"/>
 </node>
 </node>
@@ -1310,7 +1308,7 @@
   </body>
 </html></richcontent>
 </node>
-<node CREATED="1613397191986" FOLDED="true" ID="ID_681683230" MODIFIED="1662807325057" POSITION="right" TEXT="Personal Projects">
+<node CREATED="1613397191986" FOLDED="true" ID="ID_681683230" MODIFIED="1662897700766" POSITION="right" TEXT="Personal Projects">
 <node CREATED="1624191496719" FOLDED="true" ID="ID_1653576519" MODIFIED="1660411936960" TEXT="business">
 <node CREATED="1624192199612" ID="ID_718547201" MODIFIED="1624192258375" TEXT="personal-insurance (insurance)"/>
 <node CREATED="1624191695712" ID="ID_1993242425" MODIFIED="1624191852953" TEXT="personal-benefits (employee benfits)"/>
