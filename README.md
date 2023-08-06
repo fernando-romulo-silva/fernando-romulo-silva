@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A software developer from Osasco SP, Brazil.
+  A software developer from Porto, Portugal.
 </p>
 
 <p align='center'>
@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/ubuntu-%2020.04-red?&style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/ryzen-%203900x-red?&style=for-the-badge&logo=amd&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-64GB-red?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Randeon-%20RX550-red?&style=for-the-badge&logo=amd&logoColor=white" />
+  <img src="https://img.shields.io/badge/Randeon-%20T600-green?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
 <p align='center'>
@@ -46,10 +46,6 @@
 
 <p align='center'>
   📫 How to reach me: <a href='mailto:fernando.romulo.silva@gmail.com'>fernando.romulo.silva@gmail.com</a>
-</p>
-
-<p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/fernando-romulo-silva/fernando-romulo-silva"></a> hipsters and nerds come here o/
 </p>
 
 <p align='center'>
