@@ -6,8 +6,7 @@
   A software developer from Porto, Portugal.
 </p>
 
-<p align='center'>
-  
+<p align='center'>  
   <a href="https://www.linkedin.com/in/fernando-romulo-da-silva-253678136/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -50,6 +49,12 @@
 
 <p align='center'>
   :dizzy: My Portfolio<br/>
+  <a href="https://github.com/fernando-romulo-silva/allset-java">
+    Maven and plugins configurations
+  </a><br/><br/>
+  <a href="https://github.com/fernando-romulo-silva/default-extensions">
+    Default Maven extensions: artifacts that are to be used in this build
+  </a><br/><br/>  
   <a href="https://github.com/fernando-romulo-silva/image-converter-service">
     API restful: Java 17, Maven, Spring frameworks (security, data, OpenAPI), Docker, Kubernetes, SQL
   </a><br/> 
