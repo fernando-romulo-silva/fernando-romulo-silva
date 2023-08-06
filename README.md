@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/ubuntu-%2020.04-red?&style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/ryzen-%203900x-red?&style=for-the-badge&logo=amd&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-64GB-red?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Randeon-%20T600-green?&style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nvidia-%20T600-green?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
 <p align='center'>
