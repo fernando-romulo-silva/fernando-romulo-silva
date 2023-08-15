@@ -42,23 +42,3 @@
 <p align='center'>
   Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
 </p>
-
-<p align='center'>
-  📫 How to reach me: <a href='mailto:fernando.romulo.silva@gmail.com'>fernando.romulo.silva@gmail.com</a>
-</p>
-
-<p align='center'>
-  :dizzy: My Portfolio<br/>
-  <a href="https://github.com/fernando-romulo-silva/allset-java">
-    Maven and plugins configurations
-  </a><br/><br/>
-  <a href="https://github.com/fernando-romulo-silva/default-extensions">
-    Default Maven extensions: artifacts that are to be used in this build
-  </a><br/><br/>  
-  <a href="https://github.com/fernando-romulo-silva/image-converter-service">
-    API restful: Java 17, Maven, Spring frameworks (security, data, OpenAPI), Docker, Kubernetes, SQL
-  </a><br/> 
-  <a href="https://github.com/fernando-romulo-silva/useful-linux-scripts">
-    Linux and applications commands: Linux, Docker, K8s, bash and others
-  </a><br/><br/>
-</p>
